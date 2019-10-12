@@ -1,1 +1,2 @@
 # Funnel-Analysis
+Funnel analysis involves mapping and analyzing a series of events that lead towards a defined goal, like an advertisement-to-purchase journey in online advertising, or the flow that starts with user engagement in a mobile app and ends in a sale on an eCommerce platform. Funnel analyses "are an effective way to calculate conversion rates on specific user behaviors". This can be in the form of a sale, registration, or other intended action from an audience.
